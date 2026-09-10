@@ -1,7 +1,7 @@
 <img src="https://github.com/mithun41/mithun41/blob/main/cover.jpg"/>
  
  💫 About Me:
-<br><br>I'm a dedicated and detail-oriented MERN Stack Developer with a strong passion for building efficient, scalable, and user-friendly web applications.<br><br>With experience in developing full-stack projects using MongoDB, Express.js, React, and Node.js, I enjoy turning complex problems into simple, intuitive solutions. I have a deep understanding of front-end technologies like HTML, CSS, JavaScript, React, and modern frameworks such as Tailwind CSS and Firebase for authentication and hosting.<br><br>I’m continuously learning and currently exploring Next.js to build faster, SEO-optimized applications. I believe in writing clean code, following best practices, and delivering real-world, impactful solutions through web development.<br>
+<br><br>I'm a dedicated and detail-oriented Full Stack Developer with a strong passion for building efficient, scalable, and user-friendly web applications.<br><br>With experience in developing full-stack projects using Next.js, React, Django REST Framework, and Node.js, I enjoy turning complex problems into simple, intuitive solutions. I have a deep understanding of front-end technologies like HTML, CSS, JavaScript, React, and modern frameworks such as Next.js and Tailwind CSS for building fast, SEO-optimized applications.<br><br>I work extensively with PostgreSQL and MySQL for database design, and I'm experienced in deploying and managing production applications on VPS servers. I believe in writing clean code, following best practices, and delivering real-world, impactful solutions through web development.<br>
 
 
 ## 🌐 Socials:
